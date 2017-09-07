@@ -9,16 +9,17 @@
   },
   "contributors": [
     {
-      "name": "Pierre Kraft"
+      "name": "Pierre Kraft",
+      "name": "Rakhat Jabagin"
     }
   ],
-  "description": "Resolution switcher for video.js 5",
+  "description": "Resolution switcher for video.js 6",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kmoskwiak/videojs-resolution-switcher.git"
+    "url": "git@github.com:neilhem/videojs-resolution-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/kmoskwiak/videojs-resolution-switcher/issues"
+    "url": "https://github.com/neilhem/videojs-resolution-switcher/issues"
   },
   "license": "Apache-2.0",
   "keywords": [
@@ -42,11 +43,11 @@
     "grunt-contrib-qunit": "^1.1",
     "grunt-contrib-uglify": "^1.0",
     "grunt-contrib-watch": "^1.0",
-    "video.js": "^5.8",
+    "video.js": "^6.0",
     "qunitjs": "^1.22",
     "videojs-youtube": "^2.0.8"
   },
   "peerDependencies": {
-    "video.js": "^5.8"
+    "video.js": "^6.0"
   }
 }
