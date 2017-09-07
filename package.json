@@ -1,5 +1,5 @@
 {
-  "name": "videojs-resolution-switcher",
+  "name": "videojs-resolution-switcher-v6",
   "version": "0.4.2",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
