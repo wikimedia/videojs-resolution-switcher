@@ -1,6 +1,6 @@
 {
   "name": "videojs-resolution-switcher-v6",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
     "name": "Kasper Moskwiak",
